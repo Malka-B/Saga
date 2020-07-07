@@ -1,0 +1,5 @@
+﻿2020-06-24 11:11:56.211 INFO  Logging to 'C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-24 11:14:52.768 INFO  Logging to 'C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-24 11:14:53.456 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-24 11:14:54.681 INFO  Executing 'C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-24 11:15:00.498 INFO  Received PlaceOrder, OrderId = 2346ba11-e7c9-4dce-9d43-b89606aff1c7

@@ -1,0 +1,677 @@
+﻿2020-06-23 10:26:39.343 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:26:47.648 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:28:51.787 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:28:52.249 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:29:56.803 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:29:57.459 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:30:00.730 INFO  Received PlaceOrder, OrderId = 8a9ffb8d-bb3d-4721-af62-5c4d553b9184
+2020-06-23 10:30:06.250 INFO  Received PlaceOrder, OrderId = a5551560-8b1e-4d7d-b953-bac4df4f93bf
+2020-06-23 11:45:48.460 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 11:45:50.046 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 11:45:54.272 INFO  Received PlaceOrder, OrderId = 146ee242-42d6-4756-86c6-92a7ac4580fb
+2020-06-23 11:46:04.613 INFO  Received PlaceOrder, OrderId = fb5f54b4-131c-4d67-bd35-c7564b7a263a
+2020-06-23 12:23:17.680 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 12:23:18.020 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 12:23:19.008 INFO  Received PlaceOrder, OrderId = fb5f54b4-131c-4d67-bd35-c7564b7a263a
+2020-06-23 12:23:26.371 INFO  Received PlaceOrder, OrderId = 1a2816d9-db22-4d66-8685-4db20c9726ee
+2020-06-23 12:23:26.915 INFO  Received PlaceOrder, OrderId = deee7bd0-ad44-416f-b923-634c4c032691
+2020-06-23 12:23:27.215 INFO  Received PlaceOrder, OrderId = 556b0111-7aa3-4d77-b307-c002251166a2
+2020-06-23 12:23:27.503 INFO  Received PlaceOrder, OrderId = b9aebb1b-e290-4126-8908-c7d4271cb9f9
+2020-06-23 12:31:28.131 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 12:31:28.514 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 12:31:42.970 INFO  Received PlaceOrder, OrderId = 92ec96b7-fa36-4784-8a93-752ae6e145b1
+2020-06-23 12:33:58.094 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 12:33:58.380 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 12:34:04.801 INFO  Received PlaceOrder, OrderId = 3b2b4e5b-dde5-4dae-9c87-5aaca2b95009
+2020-06-23 13:14:27.790 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:14:28.874 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:14:35.156 INFO  Received PlaceOrder, OrderId = 94239033-7c08-4c28-806b-cc52327e7274
+2020-06-23 13:29:39.627 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:29:41.014 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:30:40.673 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:30:41.894 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:31:58.233 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:33:00.801 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:33:56.352 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:38:30.916 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:41:27.384 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:43:35.047 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:44:37.553 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:45:39.713 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:45:40.541 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:45:41.929 FATAL Receiver Main failed to start.
+RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no queue 'Sales' in vhost '/'', classId=60, methodId=20
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.IModelExensions.BasicConsume(IModel model, String queue, Boolean autoAck, String consumerTag, IBasicConsumer consumer)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Start(PushRuntimeSettings limitations)
+   at NServiceBus.TransportReceiver.Start()
+   at NServiceBus.ReceiveComponent.Start()
+2020-06-23 13:48:34.769 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:48:35.970 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:53:36.435 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:53:37.463 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:53:42.085 INFO  Received PlaceOrder, OrderId = d2ec38e0-7380-40fe-8eaf-7c6a6ab31ca6
+2020-06-23 14:25:17.016 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:25:17.491 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:25:26.698 INFO  Received PlaceOrder, OrderId = 54d4e8e2-25bd-42c7-86e1-9f2c3798ba10
+2020-06-23 14:25:27.685 INFO  Received PlaceOrder, OrderId = a91a22cd-37ca-468c-8e43-11eac9830468
+2020-06-23 14:25:28.800 INFO  Received PlaceOrder, OrderId = 1de48850-5917-46b6-8096-3dc33ad7dce5
+2020-06-23 14:31:21.046 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:31:22.036 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:31:24.187 INFO  Received PlaceOrder, OrderId = 7d66ea0f-4f1b-4e6c-ace6-ea9fe9bf2bac
+2020-06-23 14:31:24.579 INFO  Received PlaceOrder, OrderId = ab4ddbe7-0621-4b2a-b816-3678c0826c6e
+2020-06-23 14:31:25.245 INFO  Received PlaceOrder, OrderId = 6f25a095-95ec-4c36-be30-0984a5207fe2
+2020-06-23 14:31:25.705 INFO  Received PlaceOrder, OrderId = d1afe808-163f-4214-af62-309e50760600
+2020-06-23 14:32:28.186 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:32:29.301 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:32:53.039 INFO  Received PlaceOrder, OrderId = 3abefcbf-e487-4581-b362-9cb5191b45bf
+2020-06-23 14:32:53.135 INFO  Received PlaceOrder, OrderId = 49d33d2f-a6bc-4cf6-b361-408a62559d14
+2020-06-23 14:32:53.283 INFO  Received PlaceOrder, OrderId = 2ce4f0fa-e059-434b-b7ea-3dafbe11d11f
+2020-06-23 14:32:53.361 INFO  Received PlaceOrder, OrderId = 96f551ee-4c0d-46c3-b3be-4d5edfdd75a2
+2020-06-23 14:32:53.782 INFO  Received PlaceOrder, OrderId = 5616a9e7-3066-4d31-8942-b873b6c42edd
+2020-06-23 14:32:54.011 INFO  Received PlaceOrder, OrderId = 2b9f0c1a-e9d8-46a2-b748-8df6771de80d
+2020-06-23 14:34:39.739 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:34:41.069 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:35:28.908 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:35:30.431 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:35:35.127 INFO  Received PlaceOrder, OrderId = f7900f02-c3ef-41e5-82e5-60cdcd47ddae
+2020-06-23 14:35:35.179 INFO  Received PlaceOrder, OrderId = fc4cfba2-6e2e-4b6e-a373-d5b6b1aff721
+2020-06-23 14:35:35.381 INFO  Received PlaceOrder, OrderId = 6a267366-5f78-43a2-80e9-a23b90be64d1
+2020-06-23 14:35:35.650 INFO  Received PlaceOrder, OrderId = 094f0e4b-ba08-4695-8202-117f8a2bad54
+2020-06-23 14:38:06.951 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:38:08.550 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:38:12.397 INFO  Received PlaceOrder, OrderId = 61d86516-7d52-40f6-9742-0fc63e47152e
+2020-06-23 14:38:12.397 INFO  Received PlaceOrder, OrderId = 9b7fc194-8bf0-4aec-a467-e5d3a48b299f
+2020-06-23 14:38:12.397 INFO  Received PlaceOrder, OrderId = a06b2416-2261-476d-a914-8063f8afd98d
+2020-06-23 14:38:12.510 INFO  Received PlaceOrder, OrderId = e8d80221-7a65-485f-b49b-a5bb0d1bd1d2
+2020-06-23 14:47:08.637 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:47:09.524 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:47:13.516 INFO  Received PlaceOrder, OrderId = a6bf7281-140c-49c1-880a-2007982c9919
+2020-06-23 14:47:13.517 INFO  Received PlaceOrder, OrderId = 24ef0b7c-c342-4202-9191-fb11da855b4b
+2020-06-23 14:47:13.516 INFO  Received PlaceOrder, OrderId = c98866dd-4d08-4a83-85d5-2916cf469976
+2020-06-23 14:47:51.200 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:47:52.199 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:47:56.371 INFO  Received PlaceOrder, OrderId = 4dc2fb4b-59cc-4e84-ac81-d7b67c7da4ec
+2020-06-23 14:47:56.371 INFO  Received PlaceOrder, OrderId = c2579c08-c704-433d-89da-5cfe3952e4d8
+2020-06-23 14:47:56.371 INFO  Received PlaceOrder, OrderId = 2483bacf-4fbf-4186-b8a3-9d7e97f3b3f8
+2020-06-23 14:47:56.409 INFO  Received PlaceOrder, OrderId = e54f540a-8869-4f25-bb6c-32213bbe39d0
+2020-06-23 14:50:39.514 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:50:40.554 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:50:44.505 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:50:45.843 INFO  Received PlaceOrder, OrderId = dfd3da7d-3fd2-49c0-8dab-21fe7e429851
+2020-06-23 14:50:45.843 INFO  Received PlaceOrder, OrderId = afcdeb52-1e0d-4a0d-bedc-cf9e2de13963
+2020-06-23 14:50:45.843 INFO  Received PlaceOrder, OrderId = 7640cbbf-f774-4b1b-814d-06e8b4d39123
+2020-06-23 14:50:45.973 INFO  Received PlaceOrder, OrderId = eb503186-d219-44e5-b26f-378067c93e55
+2020-06-23 14:50:46.188 INFO  Received PlaceOrder, OrderId = 9cf36ba7-4492-4a31-8323-bb88ac638cc1
+2020-06-23 14:53:39.802 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:53:41.104 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:53:44.991 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:53:46.337 INFO  Received PlaceOrder, OrderId = 8cc416c8-e144-4ad3-8251-9790704a8c94
+2020-06-23 14:53:46.337 INFO  Received PlaceOrder, OrderId = 4114709c-5aae-43a9-827d-4fd1b1b8cf53
+2020-06-23 14:53:46.337 INFO  Received PlaceOrder, OrderId = 14159ca4-dae2-45dd-980c-5bce32421c80
+2020-06-23 14:53:46.337 INFO  Received PlaceOrder, OrderId = af5d1247-3f8d-4760-bdb4-afc3068832e9
+2020-06-23 14:53:46.337 INFO  Received PlaceOrder, OrderId = 91f928d2-b899-4b71-ad7a-485497ec691f
+2020-06-23 14:53:46.337 INFO  Received PlaceOrder, OrderId = ec30ae86-694f-457f-b8c8-3efce0fad914
+2020-06-23 14:53:47.007 INFO  Received PlaceOrder, OrderId = 260867a4-28c8-4d15-8e48-8ddb8c21a092
+2020-06-23 14:58:53.400 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:58:53.861 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:58:56.207 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:58:56.871 INFO  Received PlaceOrder, OrderId = 549f43df-5ca5-43eb-bff3-d8347964b207
+2020-06-23 15:00:44.011 INFO  Received PlaceOrder, OrderId = d3b9b379-1d84-4491-9a14-c855f291390f
+2020-06-23 15:00:50.039 INFO  Received PlaceOrder, OrderId = ad55f696-0f9f-4503-a7df-69b570a694b9
+2020-06-23 15:00:50.478 INFO  Received PlaceOrder, OrderId = 82c801db-66bd-483c-a01a-3d08c9179ea5
+2020-06-23 15:00:51.607 INFO  Received PlaceOrder, OrderId = e7fbf860-1acb-4b55-afc7-03279d2eadf6
+2020-06-23 15:00:52.785 INFO  Received PlaceOrder, OrderId = a141d8e2-ee1e-4991-bf7c-16db26223538
+2020-06-23 15:02:01.097 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:02:02.345 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:02:06.716 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:03:41.647 INFO  Initiating shutdown.
+2020-06-23 15:03:41.689 INFO  Shutdown complete.
+2020-06-23 15:12:51.279 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:12:52.134 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:12:53.490 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:13:17.206 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:13:18.012 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:13:19.403 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:13:21.117 INFO  Received PlaceOrder, OrderId = 2ca4f6dd-d422-4b2d-83fa-bed0d9552d08
+2020-06-23 15:13:21.522 INFO  Received PlaceOrder, OrderId = 4a45b390-aeca-429a-81b3-9403db0b26c7
+2020-06-23 15:13:21.989 INFO  Received PlaceOrder, OrderId = 89da5cb6-000e-4c9b-b4f4-f73c6e37d255
+2020-06-23 15:21:02.048 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:21:02.927 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:21:04.917 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:21:05.803 INFO  Received PlaceOrder, OrderId = 4cbe8549-b6b6-4efc-a6fb-6a84764aadfb
+2020-06-23 15:21:05.803 INFO  Received PlaceOrder, OrderId = b8b37589-3a81-4b42-84ff-dac76b5f7777
+2020-06-23 15:21:50.191 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:21:51.839 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:23:01.588 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:23:02.554 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:24:33.084 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:24:34.440 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:24:38.781 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:24:39.598 INFO  Received PlaceOrder, OrderId = bd99bb03-f906-4478-b815-398a12ce584d
+2020-06-23 15:24:39.996 INFO  Received PlaceOrder, OrderId = 08208149-5286-4a31-a183-fb28d67f33d9
+2020-06-23 15:24:40.519 INFO  Received PlaceOrder, OrderId = 6868a2de-6e8d-4649-a261-aa73d4ae58dd
+2020-06-23 15:24:40.886 INFO  Received PlaceOrder, OrderId = d790ff03-1a3b-4c0e-a1a7-cad026037227
+2020-06-23 15:24:41.296 INFO  Received PlaceOrder, OrderId = b938bbd9-a205-466c-a790-b2d8c7c03949
+2020-06-23 15:25:15.784 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:25:17.862 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:25:22.163 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:25:23.163 INFO  Immediate Retry is going to retry message '57f1e9e1-6fa0-47f8-a86e-abe300ccb950' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 57f1e9e1-6fa0-47f8-a86e-abe300ccb950
+2020-06-23 15:25:23.162 INFO  Immediate Retry is going to retry message 'c9441eda-a664-43cb-ab76-abe300ccb846' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: c9441eda-a664-43cb-ab76-abe300ccb846
+2020-06-23 15:25:23.602 INFO  Immediate Retry is going to retry message '57f1e9e1-6fa0-47f8-a86e-abe300ccb950' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 57f1e9e1-6fa0-47f8-a86e-abe300ccb950
+2020-06-23 15:25:23.162 INFO  Immediate Retry is going to retry message '96df7c89-c0e6-4081-95fe-abe300ccb72f' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 96df7c89-c0e6-4081-95fe-abe300ccb72f
+2020-06-23 15:25:23.602 INFO  Immediate Retry is going to retry message '53186846-a47d-4bef-b435-abe300ccba34' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 53186846-a47d-4bef-b435-abe300ccba34
+2020-06-23 15:25:24.010 INFO  Immediate Retry is going to retry message '57f1e9e1-6fa0-47f8-a86e-abe300ccb950' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 57f1e9e1-6fa0-47f8-a86e-abe300ccb950
+2020-06-23 15:25:24.023 INFO  Immediate Retry is going to retry message 'c9441eda-a664-43cb-ab76-abe300ccb846' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: c9441eda-a664-43cb-ab76-abe300ccb846
+2020-06-23 15:25:24.209 INFO  Immediate Retry is going to retry message '96df7c89-c0e6-4081-95fe-abe300ccb72f' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 96df7c89-c0e6-4081-95fe-abe300ccb72f
+2020-06-23 15:25:24.320 INFO  Immediate Retry is going to retry message '57f1e9e1-6fa0-47f8-a86e-abe300ccb950' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 57f1e9e1-6fa0-47f8-a86e-abe300ccb950
+2020-06-23 15:25:24.221 INFO  Immediate Retry is going to retry message '53186846-a47d-4bef-b435-abe300ccba34' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 53186846-a47d-4bef-b435-abe300ccba34
+2020-06-23 15:25:24.648 INFO  Immediate Retry is going to retry message 'c9441eda-a664-43cb-ab76-abe300ccb846' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: c9441eda-a664-43cb-ab76-abe300ccb846
+2020-06-23 15:25:24.720 INFO  Immediate Retry is going to retry message '57f1e9e1-6fa0-47f8-a86e-abe300ccb950' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 57f1e9e1-6fa0-47f8-a86e-abe300ccb950
+2020-06-23 15:25:24.743 INFO  Immediate Retry is going to retry message '96df7c89-c0e6-4081-95fe-abe300ccb72f' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 96df7c89-c0e6-4081-95fe-abe300ccb72f
+2020-06-23 15:25:25.018 WARN  Delayed Retry will reschedule message '57f1e9e1-6fa0-47f8-a86e-abe300ccb950' after a delay of 00:00:10 because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 57f1e9e1-6fa0-47f8-a86e-abe300ccb950
+2020-06-23 15:25:24.727 INFO  Immediate Retry is going to retry message '53186846-a47d-4bef-b435-abe300ccba34' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 53186846-a47d-4bef-b435-abe300ccba34
+2020-06-23 15:25:25.202 INFO  Immediate Retry is going to retry message '96df7c89-c0e6-4081-95fe-abe300ccb72f' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 96df7c89-c0e6-4081-95fe-abe300ccb72f
+2020-06-23 15:25:24.892 INFO  Immediate Retry is going to retry message 'c9441eda-a664-43cb-ab76-abe300ccb846' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: c9441eda-a664-43cb-ab76-abe300ccb846
+2020-06-23 15:25:25.516 INFO  Immediate Retry is going to retry message '53186846-a47d-4bef-b435-abe300ccba34' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 53186846-a47d-4bef-b435-abe300ccba34
+2020-06-23 15:25:25.678 INFO  Immediate Retry is going to retry message 'c9441eda-a664-43cb-ab76-abe300ccb846' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: c9441eda-a664-43cb-ab76-abe300ccb846
+2020-06-23 15:25:25.678 INFO  Immediate Retry is going to retry message '96df7c89-c0e6-4081-95fe-abe300ccb72f' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 96df7c89-c0e6-4081-95fe-abe300ccb72f
+2020-06-23 15:25:25.820 INFO  Immediate Retry is going to retry message '53186846-a47d-4bef-b435-abe300ccba34' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 53186846-a47d-4bef-b435-abe300ccba34
+2020-06-23 15:25:25.876 WARN  Delayed Retry will reschedule message 'c9441eda-a664-43cb-ab76-abe300ccb846' after a delay of 00:00:10 because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: c9441eda-a664-43cb-ab76-abe300ccb846
+2020-06-23 15:25:25.883 WARN  Delayed Retry will reschedule message '96df7c89-c0e6-4081-95fe-abe300ccb72f' after a delay of 00:00:10 because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 96df7c89-c0e6-4081-95fe-abe300ccb72f
+2020-06-23 15:25:25.938 WARN  Delayed Retry will reschedule message '53186846-a47d-4bef-b435-abe300ccba34' after a delay of 00:00:10 because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 53186846-a47d-4bef-b435-abe300ccba34
+2020-06-23 15:26:00.586 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:26:01.710 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:26:05.776 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:26:07.004 INFO  Received PlaceOrder, OrderId = 66e3ac30-ab59-4e1a-8def-84d9e1eb60ed
+2020-06-23 15:26:07.004 INFO  Received PlaceOrder, OrderId = b57ca736-fb41-4c76-89f0-5fc68907da7a
+2020-06-23 15:26:07.004 INFO  Received PlaceOrder, OrderId = 724b3930-aa3b-4249-ad6e-bd7ff4ed4756
+2020-06-23 15:26:07.004 INFO  Received PlaceOrder, OrderId = 14b31464-2695-4e05-a8c7-09e1c2d4baea
+2020-06-23 15:26:07.004 INFO  Received PlaceOrder, OrderId = 354af79e-0b02-4046-b22e-777e2aedf828
+2020-06-23 15:26:07.004 INFO  Received PlaceOrder, OrderId = 195222d1-197c-495a-841c-7f9d1175a1f1
+2020-06-23 15:26:08.031 INFO  Received PlaceOrder, OrderId = 844496de-66c7-422d-9093-7b245b842c41
+2020-06-23 15:26:08.083 INFO  Received PlaceOrder, OrderId = 8b4bbe61-a2d7-41b8-b22e-864ea42c6b75
+2020-06-23 15:26:08.338 INFO  Received PlaceOrder, OrderId = e2928bff-b73d-497d-a8d6-5727ec203ee7
+2020-06-23 15:26:55.032 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:26:56.531 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:26:59.880 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:27:01.250 INFO  Immediate Retry is going to retry message '1b179562-70cb-4f91-944c-abe300cd2c47' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 1b179562-70cb-4f91-944c-abe300cd2c47
+2020-06-23 15:27:01.250 INFO  Immediate Retry is going to retry message '9aa8da9d-83fe-4fca-b020-abe300cd2bec' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 9aa8da9d-83fe-4fca-b020-abe300cd2bec
+2020-06-23 15:27:01.250 INFO  Immediate Retry is going to retry message '47be152d-783a-43ae-a3f5-abe300cd2c39' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 47be152d-783a-43ae-a3f5-abe300cd2c39
+2020-06-23 15:27:01.599 INFO  Immediate Retry is going to retry message '1b179562-70cb-4f91-944c-abe300cd2c47' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 1b179562-70cb-4f91-944c-abe300cd2c47
+2020-06-23 15:27:01.612 INFO  Immediate Retry is going to retry message '47be152d-783a-43ae-a3f5-abe300cd2c39' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 47be152d-783a-43ae-a3f5-abe300cd2c39
+2020-06-23 15:27:01.601 INFO  Immediate Retry is going to retry message '9aa8da9d-83fe-4fca-b020-abe300cd2bec' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 9aa8da9d-83fe-4fca-b020-abe300cd2bec
+2020-06-23 15:27:01.721 INFO  Immediate Retry is going to retry message '1b179562-70cb-4f91-944c-abe300cd2c47' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 1b179562-70cb-4f91-944c-abe300cd2c47
+2020-06-23 15:27:01.770 INFO  Immediate Retry is going to retry message '9aa8da9d-83fe-4fca-b020-abe300cd2bec' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 9aa8da9d-83fe-4fca-b020-abe300cd2bec
+2020-06-23 15:27:01.805 INFO  Immediate Retry is going to retry message '1b179562-70cb-4f91-944c-abe300cd2c47' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 1b179562-70cb-4f91-944c-abe300cd2c47
+2020-06-23 15:27:01.728 INFO  Immediate Retry is going to retry message '47be152d-783a-43ae-a3f5-abe300cd2c39' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 47be152d-783a-43ae-a3f5-abe300cd2c39
+2020-06-23 15:27:01.905 INFO  Immediate Retry is going to retry message '1b179562-70cb-4f91-944c-abe300cd2c47' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 1b179562-70cb-4f91-944c-abe300cd2c47
+2020-06-23 15:27:01.853 INFO  Immediate Retry is going to retry message '9aa8da9d-83fe-4fca-b020-abe300cd2bec' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 9aa8da9d-83fe-4fca-b020-abe300cd2bec
+2020-06-23 15:27:01.964 INFO  Immediate Retry is going to retry message '47be152d-783a-43ae-a3f5-abe300cd2c39' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 47be152d-783a-43ae-a3f5-abe300cd2c39
+2020-06-23 15:27:02.033 INFO  Immediate Retry is going to retry message '9aa8da9d-83fe-4fca-b020-abe300cd2bec' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 9aa8da9d-83fe-4fca-b020-abe300cd2bec
+2020-06-23 15:27:02.038 WARN  Delayed Retry will reschedule message '1b179562-70cb-4f91-944c-abe300cd2c47' after a delay of 00:00:10 because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 1b179562-70cb-4f91-944c-abe300cd2c47
+2020-06-23 15:27:02.134 INFO  Immediate Retry is going to retry message '47be152d-783a-43ae-a3f5-abe300cd2c39' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 47be152d-783a-43ae-a3f5-abe300cd2c39
+2020-06-23 15:27:02.139 WARN  Delayed Retry will reschedule message '9aa8da9d-83fe-4fca-b020-abe300cd2bec' after a delay of 00:00:10 because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 9aa8da9d-83fe-4fca-b020-abe300cd2bec
+2020-06-23 15:27:02.202 WARN  Delayed Retry will reschedule message '47be152d-783a-43ae-a3f5-abe300cd2c39' after a delay of 00:00:10 because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Messages.PlaceOrder
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message)
+Exception details:
+	Message ID: 47be152d-783a-43ae-a3f5-abe300cd2c39
+2020-06-23 22:28:49.143 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 22:28:50.384 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 22:30:10.071 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 22:30:11.880 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 22:33:47.294 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 22:33:48.749 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 22:33:54.515 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Sales\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 22:33:55.969 INFO  Received PlaceOrder, OrderId = 616b81c3-ccf7-45c9-ac84-b87e15d88b1d
+2020-06-23 22:33:55.969 INFO  Received PlaceOrder, OrderId = 218253f5-04ff-4dd8-9f83-1ec404831e3a
+2020-06-23 22:33:55.969 INFO  Received PlaceOrder, OrderId = 37a8b4fc-7608-4d7b-9477-a20c7e8c0de6
+2020-06-23 22:33:58.314 INFO  Received PlaceOrder, OrderId = 3980f0d6-1d65-4c6b-b7a7-c8a89e2555de
+2020-06-23 22:33:58.526 INFO  Received PlaceOrder, OrderId = ac102042-47cf-4ae8-bb1d-2050c711beef
+2020-06-23 22:33:59.155 INFO  Received PlaceOrder, OrderId = d53634b3-2e44-428f-a9d8-c5fc39288251
+2020-06-23 22:33:59.540 INFO  Received PlaceOrder, OrderId = 2bfc8a1d-b6fe-4a23-99c9-786768e9fa18
+2020-06-23 22:34:00.289 INFO  Received PlaceOrder, OrderId = 71648cd4-7695-4b20-b7e4-9393381cff15
+2020-06-23 22:34:00.811 INFO  Received PlaceOrder, OrderId = f767850d-31a1-472d-bbb9-99e79db5bdd9

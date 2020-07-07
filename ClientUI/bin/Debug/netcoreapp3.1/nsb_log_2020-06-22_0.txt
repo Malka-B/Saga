@@ -1,0 +1,48 @@
+﻿2020-06-22 11:19:11.392 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 11:19:11.681 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 11:19:17.742 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:19:27.012 INFO  Received PlaceOrder, OrderId = b22a6b1a-b60b-485b-a2ff-ca48afc19bd7
+2020-06-22 11:20:08.461 INFO  Sending PlaceOrder command, OrderId = 0f4872dd-29fd-4dca-9301-f79b998f2c5f
+2020-06-22 11:20:27.125 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:21:45.760 INFO  Sending PlaceOrder command, OrderId = 8d4739bb-9ebc-4f2b-8372-be66aff742ef
+2020-06-22 11:21:54.087 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:21:56.420 INFO  Unknown input. Please try again.
+2020-06-22 11:22:34.739 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 11:22:34.992 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 11:22:43.493 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:22:53.236 INFO  Sending PlaceOrder command, OrderId = cde59dfc-82b9-45f4-a118-28ad7f61e478
+2020-06-22 11:23:08.886 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:23:19.699 INFO  Sending PlaceOrder command, OrderId = 650b77a9-8731-430d-a546-129b731101eb
+2020-06-22 11:23:24.696 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:23:34.426 INFO  Initiating shutdown.
+2020-06-22 11:23:34.456 INFO  Shutdown complete.
+2020-06-22 11:24:12.793 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 11:24:13.080 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 11:24:13.514 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:24:17.065 INFO  Sending PlaceOrder command, OrderId = 70e73d75-56ec-4315-aae7-2adfec929405
+2020-06-22 11:24:17.248 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:24:21.434 INFO  Sending PlaceOrder command, OrderId = 77fbe318-ac24-4f15-babb-91281c3d40d2
+2020-06-22 11:24:21.457 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:24:27.573 INFO  Initiating shutdown.
+2020-06-22 11:24:27.592 INFO  Shutdown complete.
+2020-06-22 11:25:06.875 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 11:25:07.154 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 11:25:07.581 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:25:13.019 INFO  Sending PlaceOrder command, OrderId = 86f7250e-0441-42f9-ba16-f0a706358e63
+2020-06-22 11:25:13.210 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:25:16.197 INFO  Sending PlaceOrder command, OrderId = 83bdcd7d-35a0-4125-ac88-e2b595a2c4e8
+2020-06-22 11:25:16.209 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:25:32.435 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 11:25:32.695 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 11:25:33.032 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:25:34.098 INFO  Sending PlaceOrder command, OrderId = 45d94fe5-0d8f-4eb7-9652-b6a77771d91b
+2020-06-22 11:25:34.305 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:25:36.172 INFO  Sending PlaceOrder command, OrderId = d789f435-b1c6-4b4f-bdba-b679e3d286e4
+2020-06-22 11:25:36.186 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:54:39.113 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 11:54:39.431 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 11:54:39.971 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:54:41.715 INFO  Sending PlaceOrder command, OrderId = c4954350-370a-4e34-8ff0-0fafda178599
+2020-06-22 11:54:41.900 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-22 11:54:44.360 INFO  Sending PlaceOrder command, OrderId = 0b6f8b12-9119-4246-8fd4-8e222c23527c
+2020-06-22 11:54:44.373 INFO  Press 'P' to place an order, or 'Q' to quit.

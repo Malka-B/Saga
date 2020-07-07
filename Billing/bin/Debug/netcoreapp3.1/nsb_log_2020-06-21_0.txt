@@ -1,0 +1,13 @@
+﻿2020-06-21 14:14:54.758 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-21 14:14:55.574 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-21 14:14:58.596 INFO  Initiating shutdown.
+2020-06-21 14:14:58.630 INFO  Shutdown complete.
+2020-06-21 14:26:57.271 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-21 14:26:57.792 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-21 14:27:13.184 INFO  Received OrderPlaced, OrderId = 3fa7d8e4-d76c-4ca2-a333-6ce7e6f0e241 - Charging credit card...
+2020-06-21 14:34:14.827 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-21 14:34:15.244 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-21 14:34:37.126 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-21 14:34:38.227 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-21 15:49:03.333 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-21 15:49:03.574 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.

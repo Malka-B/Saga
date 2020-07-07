@@ -1,0 +1,17 @@
+﻿2020-06-22 09:14:10.345 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 09:14:10.814 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 09:21:12.724 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 09:21:13.025 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 11:05:49.333 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 11:05:49.703 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 11:06:03.046 INFO  Initiating shutdown.
+2020-06-22 11:06:03.077 INFO  Shutdown complete.
+2020-06-22 11:08:49.509 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 11:09:33.510 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 11:09:33.745 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 11:09:52.842 INFO  Initiating shutdown.
+2020-06-22 11:09:52.862 INFO  Shutdown complete.
+2020-06-22 11:15:16.096 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-22 11:15:16.363 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-22 11:15:26.041 INFO  Initiating shutdown.
+2020-06-22 11:15:26.075 INFO  Shutdown complete.

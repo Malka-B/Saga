@@ -1,0 +1,441 @@
+﻿2020-06-23 10:08:17.458 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:08:18.327 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:08:19.396 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:08:21.881 INFO  Sending PlaceOrder command, OrderId = 24fd1361-22ad-46d7-87b5-112b90d60e0d
+2020-06-23 10:08:22.366 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:08:23.883 INFO  Sending PlaceOrder command, OrderId = 87f87103-eded-4e6d-af27-fc870cafd0c5
+2020-06-23 10:08:23.924 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:09:07.819 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:09:08.505 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:09:09.258 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:09:21.652 INFO  Sending PlaceOrder command, OrderId = 63250c34-ecd8-4d8c-b915-cf34f0bd8240
+2020-06-23 10:09:22.247 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:09:25.512 INFO  Sending PlaceOrder command, OrderId = 8a0d96f3-1512-4d47-8e0f-0c1d87f2b3f8
+2020-06-23 10:09:25.675 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:18:00.553 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:18:00.808 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:18:01.221 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:18:03.258 INFO  Sending PlaceOrder command, OrderId = a3cd7bc1-631e-46c0-b402-228b95c82202
+2020-06-23 10:18:03.384 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:18:04.777 INFO  Sending PlaceOrder command, OrderId = e935666c-2a34-43da-88e4-dbe83b04caf6
+2020-06-23 10:18:04.790 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:19:50.083 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:19:50.349 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:19:50.730 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:19:57.633 INFO  Sending PlaceOrder command, OrderId = c8e29064-319e-4d41-8c5e-7957b59773a2
+2020-06-23 10:19:57.836 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:20:27.470 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:20:27.777 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:20:28.226 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:20:30.093 INFO  Sending PlaceOrder command, OrderId = 410f005f-e5fe-4975-a978-4e590ab86f38
+2020-06-23 10:20:30.446 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:26:39.347 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:26:39.640 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:26:40.212 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:26:57.132 INFO  Sending PlaceOrder command, OrderId = 95775025-ba2e-4363-a2ea-3bbe1fdf8989
+2020-06-23 10:26:57.303 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:28:53.166 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:28:53.430 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:28:53.804 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:28:56.208 INFO  Sending PlaceOrder command, OrderId = 4779915f-f53e-4878-afb2-4c1bee48312d
+2020-06-23 10:28:56.386 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:29:56.803 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 10:29:57.602 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 10:29:58.380 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:30:00.386 INFO  Sending PlaceOrder command, OrderId = 8a9ffb8d-bb3d-4721-af62-5c4d553b9184
+2020-06-23 10:30:00.543 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 10:30:06.215 INFO  Sending PlaceOrder command, OrderId = a5551560-8b1e-4d7d-b953-bac4df4f93bf
+2020-06-23 10:30:06.237 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 11:45:48.453 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 11:45:49.925 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 11:45:51.440 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 11:45:53.271 INFO  Sending PlaceOrder command, OrderId = 146ee242-42d6-4756-86c6-92a7ac4580fb
+2020-06-23 11:45:54.013 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 11:46:04.564 INFO  Sending PlaceOrder command, OrderId = fb5f54b4-131c-4d67-bd35-c7564b7a263a
+2020-06-23 11:46:04.593 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 12:23:17.680 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 12:23:18.028 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 12:23:18.518 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 12:23:26.153 INFO  Sending PlaceOrder command, OrderId = 1a2816d9-db22-4d66-8685-4db20c9726ee
+2020-06-23 12:23:26.355 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 12:23:26.885 INFO  Sending PlaceOrder command, OrderId = deee7bd0-ad44-416f-b923-634c4c032691
+2020-06-23 12:23:26.908 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 12:23:27.181 INFO  Sending PlaceOrder command, OrderId = 556b0111-7aa3-4d77-b307-c002251166a2
+2020-06-23 12:23:27.193 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 12:23:27.484 INFO  Sending PlaceOrder command, OrderId = b9aebb1b-e290-4126-8908-c7d4271cb9f9
+2020-06-23 12:23:27.495 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 12:31:28.131 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 12:31:28.518 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 12:31:29.005 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 12:31:42.404 INFO  Sending PlaceOrder command, OrderId = 92ec96b7-fa36-4784-8a93-752ae6e145b1
+2020-06-23 12:31:42.670 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 12:34:01.936 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 12:34:02.192 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 12:34:02.579 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 12:34:04.466 INFO  Sending PlaceOrder command, OrderId = 3b2b4e5b-dde5-4dae-9c87-5aaca2b95009
+2020-06-23 12:34:04.653 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 13:14:27.740 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:14:28.601 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:14:29.998 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 13:14:32.588 INFO  Sending PlaceOrder command, OrderId = 94239033-7c08-4c28-806b-cc52327e7274
+2020-06-23 13:14:34.001 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 13:29:39.627 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:29:41.423 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:29:42.510 FATAL Receiver Main failed to start.
+RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no queue 'ClientUI' in vhost '/'', classId=60, methodId=20
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.IModelExensions.BasicConsume(IModel model, String queue, Boolean autoAck, String consumerTag, IBasicConsumer consumer)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Start(PushRuntimeSettings limitations)
+   at NServiceBus.TransportReceiver.Start()
+   at NServiceBus.ReceiveComponent.Start()
+2020-06-23 13:30:40.661 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:30:42.119 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:30:43.196 FATAL Receiver Main failed to start.
+RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no queue 'ClientUI' in vhost '/'', classId=60, methodId=20
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.IModelExensions.BasicConsume(IModel model, String queue, Boolean autoAck, String consumerTag, IBasicConsumer consumer)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Start(PushRuntimeSettings limitations)
+   at NServiceBus.TransportReceiver.Start()
+   at NServiceBus.ReceiveComponent.Start()
+2020-06-23 13:31:58.259 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:33:00.816 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:33:56.352 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:38:30.908 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:41:27.356 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:43:35.044 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:44:37.547 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:45:39.735 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:45:40.600 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:45:41.939 FATAL Receiver Main failed to start.
+RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no queue 'ClientUI' in vhost '/'', classId=60, methodId=20
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.IModelExensions.BasicConsume(IModel model, String queue, Boolean autoAck, String consumerTag, IBasicConsumer consumer)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Start(PushRuntimeSettings limitations)
+   at NServiceBus.TransportReceiver.Start()
+   at NServiceBus.ReceiveComponent.Start()
+2020-06-23 13:48:34.839 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:48:36.045 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:48:38.297 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 13:48:42.048 INFO  Sending PlaceOrder command, OrderId = 88febed0-e331-47c6-923b-9dd15123e76f
+2020-06-23 13:53:36.449 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 13:53:37.499 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 13:53:39.029 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 13:53:41.654 INFO  Sending PlaceOrder command, OrderId = d2ec38e0-7380-40fe-8eaf-7c6a6ab31ca6
+2020-06-23 13:53:41.891 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:25:17.239 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:25:18.022 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:25:22.715 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:25:26.373 INFO  Sending PlaceOrder command, OrderId = 54d4e8e2-25bd-42c7-86e1-9f2c3798ba10
+2020-06-23 14:25:26.526 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:25:27.634 INFO  Sending PlaceOrder command, OrderId = a91a22cd-37ca-468c-8e43-11eac9830468
+2020-06-23 14:25:27.673 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:25:28.785 INFO  Sending PlaceOrder command, OrderId = 1de48850-5917-46b6-8096-3dc33ad7dce5
+2020-06-23 14:25:28.798 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:25:36.824 INFO  Initiating shutdown.
+2020-06-23 14:25:36.858 INFO  Shutdown complete.
+2020-06-23 14:31:20.829 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:31:22.025 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:31:23.866 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:31:23.874 INFO  Sending PlaceOrder command, OrderId = 7d66ea0f-4f1b-4e6c-ace6-ea9fe9bf2bac
+2020-06-23 14:31:24.021 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:31:24.555 INFO  Sending PlaceOrder command, OrderId = ab4ddbe7-0621-4b2a-b816-3678c0826c6e
+2020-06-23 14:31:24.579 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:31:25.164 INFO  Sending PlaceOrder command, OrderId = 6f25a095-95ec-4c36-be30-0984a5207fe2
+2020-06-23 14:31:25.221 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:31:25.626 INFO  Sending PlaceOrder command, OrderId = d1afe808-163f-4214-af62-309e50760600
+2020-06-23 14:31:25.690 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:32:27.912 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:32:29.290 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:32:31.992 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:32:33.420 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:32:52.727 INFO  Sending PlaceOrder command, OrderId = 3abefcbf-e487-4581-b362-9cb5191b45bf
+2020-06-23 14:32:52.860 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:32:53.053 INFO  Sending PlaceOrder command, OrderId = 49d33d2f-a6bc-4cf6-b361-408a62559d14
+2020-06-23 14:32:53.119 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:32:53.235 INFO  Sending PlaceOrder command, OrderId = 2ce4f0fa-e059-434b-b7ea-3dafbe11d11f
+2020-06-23 14:32:53.272 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:32:53.350 INFO  Sending PlaceOrder command, OrderId = 96f551ee-4c0d-46c3-b3be-4d5edfdd75a2
+2020-06-23 14:32:53.364 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:32:53.764 INFO  Sending PlaceOrder command, OrderId = 5616a9e7-3066-4d31-8942-b873b6c42edd
+2020-06-23 14:32:53.782 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:32:53.928 INFO  Sending PlaceOrder command, OrderId = 2b9f0c1a-e9d8-46a2-b748-8df6771de80d
+2020-06-23 14:32:54.021 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:32:54.508 INFO  Initiating shutdown.
+2020-06-23 14:32:54.545 INFO  Shutdown complete.
+2020-06-23 14:34:39.498 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:34:41.084 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:34:43.025 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:34:43.178 ERROR Could not complete the installation. 
+System.Exception: Failed to ExecuteNonQuery. CommandText:
+declare @tableName nvarchar(max) = '[' + @schema + '].[' + @tablePrefix + 'OutboxData]';
+
+if not exists (
+    select * from sys.objects
+    where
+        object_id = object_id(@tableName)
+        and type in ('U')
+)
+begin
+declare @createTable nvarchar(max);
+set @createTable = '
+    create table ' + @tableName + '(
+        MessageId nvarchar(200) not null primary key nonclustered,
+        Dispatched bit not null default 0,
+        DispatchedAt datetime,
+        PersistenceVersion varchar(23) not null,
+        Operations nvarchar(max) not null
+    )
+';
+exec(@createTable);
+end
+
+if not exists
+(
+    select *
+    from sys.indexes
+    where
+        name = 'Index_DispatchedAt' and
+        object_id = object_id(@tableName)
+)
+begin
+  declare @createDispatchedAtIndex nvarchar(max);
+  set @createDispatchedAtIndex = '
+  create index Index_DispatchedAt
+  on ' + @tableName + '(DispatchedAt) where Dispatched = 1;';
+  exec(@createDispatchedAtIndex);
+end
+ ---> System.Data.SqlClient.SqlException (0x80131904): The specified schema name "Outbox_DB" either does not exist or you do not have permission to use it.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader()
+   at System.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at System.Data.SqlClient.SqlCommand.EndExecuteNonQuery(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at Extensions.ExecuteNonQueryEx(DbCommand command, CancellationToken cancellationToken)
+ClientConnectionId:ce0e3565-7819-4224-9415-8bdf68ad8496
+Error Number:2760,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Extensions.ExecuteNonQueryEx(DbCommand command, CancellationToken cancellationToken)
+   at NServiceBus.SqlDialect.ExecuteTableCommand(DbConnection connection, DbTransaction transaction, String script, String tablePrefix)
+   at NServiceBus.Persistence.Sql.ScriptRunner.ExecuteInSeparateConnection[T](Func`6 installAction, String scriptDirectory, String tablePrefix, SqlDialect sqlDialect, Func`2 connectionBuilder)
+   at NServiceBus.Persistence.Sql.ScriptRunner.Install(SqlDialect sqlDialect, String tablePrefix, Func`2 connectionBuilder, String scriptDirectory, Boolean shouldInstallOutbox, Boolean shouldInstallSagas, Boolean shouldInstallSubscriptions, Boolean shouldInstallTimeouts)
+   at SqlPersistenceInstaller.Install(String identity)
+2020-06-23 14:35:28.567 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:35:30.674 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:35:32.319 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:35:32.860 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:35:34.830 INFO  Sending PlaceOrder command, OrderId = f7900f02-c3ef-41e5-82e5-60cdcd47ddae
+2020-06-23 14:35:34.939 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:35:35.131 INFO  Sending PlaceOrder command, OrderId = fc4cfba2-6e2e-4b6e-a373-d5b6b1aff721
+2020-06-23 14:35:35.157 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:35:35.367 INFO  Sending PlaceOrder command, OrderId = 6a267366-5f78-43a2-80e9-a23b90be64d1
+2020-06-23 14:35:35.384 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:35:35.620 INFO  Sending PlaceOrder command, OrderId = 094f0e4b-ba08-4695-8202-117f8a2bad54
+2020-06-23 14:35:35.655 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:35:36.503 INFO  Initiating shutdown.
+2020-06-23 14:35:36.551 INFO  Shutdown complete.
+2020-06-23 14:38:06.729 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:38:08.465 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:38:10.357 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:38:10.742 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:38:11.975 INFO  Sending PlaceOrder command, OrderId = 9b7fc194-8bf0-4aec-a467-e5d3a48b299f
+2020-06-23 14:38:12.133 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:38:12.150 INFO  Sending PlaceOrder command, OrderId = a06b2416-2261-476d-a914-8063f8afd98d
+2020-06-23 14:38:12.189 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:38:12.278 INFO  Sending PlaceOrder command, OrderId = 61d86516-7d52-40f6-9742-0fc63e47152e
+2020-06-23 14:38:12.297 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:38:12.437 INFO  Sending PlaceOrder command, OrderId = e8d80221-7a65-485f-b49b-a5bb0d1bd1d2
+2020-06-23 14:38:12.504 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:38:13.176 INFO  Initiating shutdown.
+2020-06-23 14:38:13.197 INFO  Shutdown complete.
+2020-06-23 14:47:09.887 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:47:10.946 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:47:12.222 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:47:12.853 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:47:12.950 INFO  Sending PlaceOrder command, OrderId = 24ef0b7c-c342-4202-9191-fb11da855b4b
+2020-06-23 14:47:13.172 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:47:13.193 INFO  Sending PlaceOrder command, OrderId = a6bf7281-140c-49c1-880a-2007982c9919
+2020-06-23 14:47:13.235 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:47:13.344 INFO  Sending PlaceOrder command, OrderId = c98866dd-4d08-4a83-85d5-2916cf469976
+2020-06-23 14:47:13.415 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:47:14.552 INFO  Initiating shutdown.
+2020-06-23 14:47:14.589 INFO  Shutdown complete.
+2020-06-23 14:47:52.863 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:47:54.077 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:47:55.413 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:47:55.995 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:47:56.011 INFO  Sending PlaceOrder command, OrderId = 2483bacf-4fbf-4186-b8a3-9d7e97f3b3f8
+2020-06-23 14:47:56.181 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:47:56.192 INFO  Sending PlaceOrder command, OrderId = 4dc2fb4b-59cc-4e84-ac81-d7b67c7da4ec
+2020-06-23 14:47:56.209 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:47:56.214 INFO  Sending PlaceOrder command, OrderId = c2579c08-c704-433d-89da-5cfe3952e4d8
+2020-06-23 14:47:56.225 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:47:56.378 INFO  Sending PlaceOrder command, OrderId = e54f540a-8869-4f25-bb6c-32213bbe39d0
+2020-06-23 14:47:56.424 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:47:57.458 INFO  Initiating shutdown.
+2020-06-23 14:47:57.499 INFO  Shutdown complete.
+2020-06-23 14:50:39.502 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:50:40.555 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:50:42.789 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:50:43.233 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:50:44.962 INFO  Sending PlaceOrder command, OrderId = dfd3da7d-3fd2-49c0-8dab-21fe7e429851
+2020-06-23 14:50:45.147 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:50:45.246 INFO  Sending PlaceOrder command, OrderId = afcdeb52-1e0d-4a0d-bedc-cf9e2de13963
+2020-06-23 14:50:45.278 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:50:45.418 INFO  Sending PlaceOrder command, OrderId = 7640cbbf-f774-4b1b-814d-06e8b4d39123
+2020-06-23 14:50:45.443 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:50:45.886 INFO  Sending PlaceOrder command, OrderId = eb503186-d219-44e5-b26f-378067c93e55
+2020-06-23 14:50:45.932 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:50:46.085 INFO  Sending PlaceOrder command, OrderId = 9cf36ba7-4492-4a31-8323-bb88ac638cc1
+2020-06-23 14:50:46.104 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:50:46.574 INFO  Initiating shutdown.
+2020-06-23 14:50:46.632 INFO  Shutdown complete.
+2020-06-23 14:53:39.802 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:53:41.348 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:53:43.581 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:53:44.136 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:53:44.161 INFO  Sending PlaceOrder command, OrderId = 14159ca4-dae2-45dd-980c-5bce32421c80
+2020-06-23 14:53:44.336 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:53:44.351 INFO  Sending PlaceOrder command, OrderId = 8cc416c8-e144-4ad3-8251-9790704a8c94
+2020-06-23 14:53:44.370 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:53:44.383 INFO  Sending PlaceOrder command, OrderId = 91f928d2-b899-4b71-ad7a-485497ec691f
+2020-06-23 14:53:44.442 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:53:44.458 INFO  Sending PlaceOrder command, OrderId = af5d1247-3f8d-4760-bdb4-afc3068832e9
+2020-06-23 14:53:44.498 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:53:44.511 INFO  Sending PlaceOrder command, OrderId = ec30ae86-694f-457f-b8c8-3efce0fad914
+2020-06-23 14:53:44.537 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:53:44.570 INFO  Sending PlaceOrder command, OrderId = 4114709c-5aae-43a9-827d-4fd1b1b8cf53
+2020-06-23 14:53:44.613 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:53:44.668 INFO  Sending PlaceOrder command, OrderId = 260867a4-28c8-4d15-8e48-8ddb8c21a092
+2020-06-23 14:53:44.717 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:53:45.570 INFO  Initiating shutdown.
+2020-06-23 14:53:45.740 INFO  Shutdown complete.
+2020-06-23 14:58:53.400 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 14:58:53.861 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 14:58:55.300 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 14:58:55.812 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 14:58:55.818 INFO  Sending PlaceOrder command, OrderId = 549f43df-5ca5-43eb-bff3-d8347964b207
+2020-06-23 14:58:55.920 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:00:43.909 INFO  Sending PlaceOrder command, OrderId = d3b9b379-1d84-4491-9a14-c855f291390f
+2020-06-23 15:00:43.923 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:00:49.983 INFO  Sending PlaceOrder command, OrderId = ad55f696-0f9f-4503-a7df-69b570a694b9
+2020-06-23 15:00:50.000 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:00:50.397 INFO  Sending PlaceOrder command, OrderId = 82c801db-66bd-483c-a01a-3d08c9179ea5
+2020-06-23 15:00:50.422 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:00:51.584 INFO  Sending PlaceOrder command, OrderId = e7fbf860-1acb-4b55-afc7-03279d2eadf6
+2020-06-23 15:00:51.608 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:00:52.711 INFO  Sending PlaceOrder command, OrderId = a141d8e2-ee1e-4991-bf7c-16db26223538
+2020-06-23 15:00:52.735 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:02:01.097 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:02:02.201 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:02:05.186 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:02:05.869 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:12:51.276 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:12:52.134 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:12:53.034 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:12:53.309 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:13:17.253 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:13:18.078 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:13:18.856 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:13:19.127 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:13:20.880 INFO  Sending PlaceOrder command, OrderId = 2ca4f6dd-d422-4b2d-83fa-bed0d9552d08
+2020-06-23 15:13:20.964 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:13:21.474 INFO  Sending PlaceOrder command, OrderId = 4a45b390-aeca-429a-81b3-9403db0b26c7
+2020-06-23 15:13:21.486 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:13:21.939 INFO  Sending PlaceOrder command, OrderId = 89da5cb6-000e-4c9b-b4f4-f73c6e37d255
+2020-06-23 15:13:21.952 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:21:02.044 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:21:02.953 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:21:04.102 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:21:04.517 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:21:05.239 INFO  Sending PlaceOrder command, OrderId = b8b37589-3a81-4b42-84ff-dac76b5f7777
+2020-06-23 15:21:05.392 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:21:05.452 INFO  Sending PlaceOrder command, OrderId = 4cbe8549-b6b6-4efc-a6fb-6a84764aadfb
+2020-06-23 15:21:05.479 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:21:50.191 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:21:51.613 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:23:01.589 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:23:02.502 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:23:04.466 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:23:05.013 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:23:05.020 INFO  Sending PlaceOrder command, OrderId = fa1c7a48-872f-4bcc-aa8f-cc12945fefe8
+2020-06-23 15:24:33.084 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:24:34.236 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:24:37.025 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:24:37.744 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:24:39.217 INFO  Sending PlaceOrder command, OrderId = bd99bb03-f906-4478-b815-398a12ce584d
+2020-06-23 15:24:39.375 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:24:39.813 INFO  Sending PlaceOrder command, OrderId = 08208149-5286-4a31-a183-fb28d67f33d9
+2020-06-23 15:24:39.855 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:24:40.379 INFO  Sending PlaceOrder command, OrderId = 6868a2de-6e8d-4649-a261-aa73d4ae58dd
+2020-06-23 15:24:40.453 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:24:40.803 INFO  Sending PlaceOrder command, OrderId = d790ff03-1a3b-4c0e-a1a7-cad026037227
+2020-06-23 15:24:40.845 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:24:41.150 INFO  Sending PlaceOrder command, OrderId = b938bbd9-a205-466c-a790-b2d8c7c03949
+2020-06-23 15:24:41.230 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:25:15.784 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:25:17.684 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:25:19.673 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:25:20.712 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:25:20.775 INFO  Sending PlaceOrder command, OrderId = 14b31464-2695-4e05-a8c7-09e1c2d4baea
+2020-06-23 15:25:21.035 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:25:21.694 INFO  Sending PlaceOrder command, OrderId = b57ca736-fb41-4c76-89f0-5fc68907da7a
+2020-06-23 15:25:21.735 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:25:22.605 INFO  Sending PlaceOrder command, OrderId = 724b3930-aa3b-4249-ad6e-bd7ff4ed4756
+2020-06-23 15:25:22.620 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:25:23.286 INFO  Sending PlaceOrder command, OrderId = 66e3ac30-ab59-4e1a-8def-84d9e1eb60ed
+2020-06-23 15:25:23.401 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:26:00.586 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:26:01.707 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:26:03.917 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:26:04.431 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:26:05.191 INFO  Sending PlaceOrder command, OrderId = 354af79e-0b02-4046-b22e-777e2aedf828
+2020-06-23 15:26:05.429 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:26:05.589 INFO  Sending PlaceOrder command, OrderId = 195222d1-197c-495a-841c-7f9d1175a1f1
+2020-06-23 15:26:05.623 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:26:06.488 INFO  Sending PlaceOrder command, OrderId = 8b4bbe61-a2d7-41b8-b22e-864ea42c6b75
+2020-06-23 15:26:06.505 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:26:07.009 INFO  Sending PlaceOrder command, OrderId = 844496de-66c7-422d-9093-7b245b842c41
+2020-06-23 15:26:07.024 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:26:07.552 INFO  Sending PlaceOrder command, OrderId = e2928bff-b73d-497d-a8d6-5727ec203ee7
+2020-06-23 15:26:07.641 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:26:55.031 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 15:26:57.121 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 15:26:58.702 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 15:26:59.176 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:27:00.377 INFO  Sending PlaceOrder command, OrderId = 218253f5-04ff-4dd8-9f83-1ec404831e3a
+2020-06-23 15:27:00.620 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:27:00.649 INFO  Sending PlaceOrder command, OrderId = 37a8b4fc-7608-4d7b-9477-a20c7e8c0de6
+2020-06-23 15:27:00.691 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 15:27:00.698 INFO  Sending PlaceOrder command, OrderId = 616b81c3-ccf7-45c9-ac84-b87e15d88b1d
+2020-06-23 15:27:00.718 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 22:28:49.437 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 22:28:50.449 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 22:30:10.009 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 22:30:11.648 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 22:33:47.293 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2020-06-23 22:33:48.740 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-21'.
+2020-06-23 22:33:53.796 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\ClientUI\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-06-23 22:33:55.425 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 22:33:57.978 INFO  Sending PlaceOrder command, OrderId = 3980f0d6-1d65-4c6b-b7a7-c8a89e2555de
+2020-06-23 22:33:58.297 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 22:33:58.394 INFO  Sending PlaceOrder command, OrderId = ac102042-47cf-4ae8-bb1d-2050c711beef
+2020-06-23 22:33:58.457 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 22:33:59.006 INFO  Sending PlaceOrder command, OrderId = d53634b3-2e44-428f-a9d8-c5fc39288251
+2020-06-23 22:33:59.069 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 22:33:59.434 INFO  Sending PlaceOrder command, OrderId = 2bfc8a1d-b6fe-4a23-99c9-786768e9fa18
+2020-06-23 22:33:59.489 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 22:34:00.222 INFO  Sending PlaceOrder command, OrderId = 71648cd4-7695-4b20-b7e4-9393381cff15
+2020-06-23 22:34:00.243 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-06-23 22:34:00.753 INFO  Sending PlaceOrder command, OrderId = f767850d-31a1-472d-bbb9-99e79db5bdd9
+2020-06-23 22:34:00.767 INFO  Press 'P' to place an order, or 'Q' to quit.

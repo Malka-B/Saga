@@ -1,0 +1,1 @@
+﻿2020-06-24 11:11:56.496 INFO  Logging to 'C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Billing\bin\Debug\netcoreapp3.1\' with level Info

@@ -1,0 +1,17 @@
+C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Messages\bin\Debug\netstandard2.0\Messages.deps.json
+C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Messages\bin\Debug\netstandard2.0\Messages.dll
+C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Messages\bin\Debug\netstandard2.0\Messages.pdb
+C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfo.cs
+C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.dll
+C:\Users\user1\Documents\Yehudit\Brix\week7\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.pdb
+C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Messages\bin\Debug\netstandard2.0\Messages.deps.json
+C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Messages\bin\Debug\netstandard2.0\Messages.dll
+C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Messages\bin\Debug\netstandard2.0\Messages.pdb
+C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.csprojAssemblyReference.cache
+C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfo.cs
+C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.dll
+C:\Users\User\Downloads\RabbitMQ-master\RetailDemo\Messages\obj\Debug\netstandard2.0\Messages.pdb
